@@ -89,7 +89,7 @@
 
 
 
-.stripe-button-el { display: none }
+.stripeFormContainer .stripe-button-el { display: none; }
 
 
 
