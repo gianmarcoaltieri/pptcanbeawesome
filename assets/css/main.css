@@ -2516,7 +2516,7 @@
 	input[type="reset"],
 	input[type="button"],
 	button,
-	.button {
+	/*.button {
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
@@ -2542,13 +2542,13 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-	}
+	} */
 
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		button:hover,
-		.button:hover {
+		/*.button:hover*/ {
 			background-color: rgba(108, 192, 145, 0.15);
 		}
 
@@ -2556,7 +2556,7 @@
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		button:active,
-		.button:active {
+		/*.button:active*/ {
 			background-color: rgba(108, 192, 145, 0.15);
 		}
 
@@ -2683,7 +2683,7 @@
 			input[type="reset"],
 			input[type="button"],
 			button,
-			.button {
+			/*.button*/ {
 				padding: 0;
 				width: 100%;
 			}
